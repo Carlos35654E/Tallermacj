@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   sodipodi:docname="telefono-icono.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.49264169"
+     inkscape:cx="396.84014"
+     inkscape:cy="561.25984"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:#004173;fill-opacity:1;stroke:#000000;stroke-width:42.7658;stroke-opacity:0;paint-order:markers fill stroke"
+       d="m 64.09676,133.44394 c 12.267576,20.10655 24.663276,40.17431 60.78224,53.06237 l 13.32216,-13.06761 c 7.27496,-12.49141 13.81564,-4.74023 19.98318,-3.56389 l 21.23217,9.8997 c 7.26729,2.16369 9.51527,8.66762 4.57947,21.38334 -16.20032,24.45283 -38.45212,21.08514 -61.19855,15.4435 C 75.70664,202.37302 44.310344,170.23097 24.962989,124.33622 20.369776,103.5674 24.446131,86.509352 42.031973,75.23375 c 4.771987,-2.273701 10.912096,-1.944788 17.901623,0 11.247901,14.420366 13.895025,24.95869 18.734253,38.41082 -4.369346,7.52754 -9.094874,14.37749 -14.571089,19.79937 z"
+       id="path4"
+       sodipodi:nodetypes="cccccccccccc" />
+  </g>
+</svg>
